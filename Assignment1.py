@@ -17,7 +17,7 @@ print ("Division:", ip1%ip2)
 
 
 
-#Program 2: Replace python word with pythons in an input string
+#Program 2: Replace 'python' word with 'pythons' in an input string
 input_string = input("Input:")
 print ("Input:", input_string)
 output_string = input_string.replace("python", "pythons")
